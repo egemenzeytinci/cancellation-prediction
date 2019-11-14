@@ -10,14 +10,6 @@ It consists of two steps: **preprocessing** and **modelling**
 
 Some metrics are as follows for files:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-cly1">File</th>
@@ -102,14 +94,6 @@ Some metrics are as follows for files:
 
 The comparison between the prediction models as follows:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-cly1"></th>
